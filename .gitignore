@@ -1,0 +1,19 @@
+# Miscellaneous
+*.class
+*.log
+*.pyc
+*.swp
+.DS_Store
+.atom/
+.buildlog
+.history/
+.vscode/
+.packages
+.pub-cache/
+.pub-spec
+.dart_tool/
+.packages
+build/
+android/local.properties
+ios/Pods/
+*.iml
